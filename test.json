@@ -1,0 +1,22 @@
+{
+  "applications": [
+    {
+      "name": "app1",
+      "db": {
+        "host": "db2",
+        "user": "root",
+        "pass": "",
+        "dbname": "test"
+      }
+    },
+    {
+      "name": "app2",
+      "db": {
+        "host": "db2",
+        "user": "root",
+        "pass": "",
+        "dbname": "test"
+      }
+    }
+  ]
+}
